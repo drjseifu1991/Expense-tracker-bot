@@ -1,0 +1,29 @@
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+
+# Build files
+dist/
+build/
+out/
+.DS_Store
+
+# Log files
+*.log
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+
+# macOS directory attributes
+._*
+
+# Windows directory attributes
+Thumbs.db
+ehthumbs.db
+
+# npm package files
+package-lock.json
